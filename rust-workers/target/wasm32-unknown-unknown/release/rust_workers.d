@@ -1,1 +1,0 @@
-/home/linus/Projects/js/wasm-workers/rust-workers/target/wasm32-unknown-unknown/release/rust_workers.wasm: /home/linus/Projects/js/wasm-workers/rust-workers/src/lib.rs /home/linus/Projects/js/wasm-workers/rust-workers/src/utils.rs
